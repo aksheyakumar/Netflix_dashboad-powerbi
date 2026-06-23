@@ -31,4 +31,5 @@ The dashboard was built using the following technologies:
 
   **link :** 
   [Dashboard Preview] (https://github.com/aksheyakumar/Netflix_dashboad-powerbi/blob/main/Screenshot%202026-06-23%20203247.png)
+  
   [Analysis preview] (https://github.com/aksheyakumar/Netflix_dashboad-powerbi/blob/main/Screenshot%202026-06-23%20203325.png)
