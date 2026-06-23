@@ -8,12 +8,12 @@
 
 **3.Tech-Stack :**
 The dashboard was built using the following technologies:
- 〇 📊   Power Bi Desktop : The main data visualization platform for dashboard creation.
- 〇 ⚡   Power Query : here we clean and transform the data using power query.
- 〇 📂   File Format : .pbix for dashboard and .png for dashboard preview
+ 〇 📊   **Power Bi Desktop :** The main data visualization platform for dashboard creation.
+ 〇 ⚡   **Power Query :** here we clean and transform the data using power query.
+ 〇 📂   **File Format :** .pbix for dashboard and .png for dashboard preview
 
  **4.Data Source:**
    **Source :** www.kaggle.com(Netflix Dataset)
  
 **5.Screenshots :**
-  
+  **link :** [Dashboard Preview] (https://github.com/aksheyakumar/Netflix_dashboad-powerbi/blob/main/Screenshot%202026-06-23%20203247.png)
