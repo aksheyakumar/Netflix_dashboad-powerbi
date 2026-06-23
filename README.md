@@ -23,7 +23,7 @@ The dashboard was built using the following technologies:
 
  **4.Data Source:**
  
-   **Source :** www.kaggle.com(Netflix Dataset)
+   **Source :** www.kaggle.com (Netflix Dataset)
 
 ---
  
